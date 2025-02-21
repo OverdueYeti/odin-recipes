@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    
+    background-color: rgb(246, 246, 247);
+}
+
+.mainlist {
+    width: 400px;
+    background-color: rgb(87, 115, 153);
+    margin: 16px auto;
+    padding: 8px;
+}
+
+.title {
+    background-color: rgb(189, 213, 234);
+    text-align: center;
+    margin: 8px;
+    padding: 8px;
+}
+
+.recipes {
+    background-color: rgb(189, 213, 234);
+    text-align: center;
+    padding: 8px;
+    margin: 8px;
+}
